@@ -1,0 +1,22 @@
+[[data]]
+id = 1
+type = "individual"
+rank = 1
+name = "Jane Doe"
+college = "St. Teresa's"
+program = "Classical Dance"
+score = 95
+medal = "🥇"
+category = "onstage"
+
+[[data]]
+id = 2
+type = "group"
+rank = 1
+teamName = "Groove Breakers"
+college = "Maharajas"
+program = "Hip Hop"
+members = "John, Mike, Sarah, Lisa"
+score = 98
+medal = "🥇"
+category = "onstage"
